@@ -2,6 +2,9 @@
 
 A Python application that converts transparent PNG images into animated GIFs with a gentle bobbing motion effect. Perfect for creating floating icons, animated characters, or any object that needs a subtle bouncing animation.
 
+![xbox 600px_bobbing](https://github.com/user-attachments/assets/014e7dc0-6873-4ae4-a560-012c7c2ad49f)
+
+
 ## Features
 
 - **Smooth Bobbing Animation**: Creates gentle sine-wave based bobbing motion
